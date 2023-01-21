@@ -1,7 +1,7 @@
-## [🔙 views-counter](https://github.com/arkapg211002/views-counter)
+## [🔙 TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme)
 
 ### :octocat: [arkapg](https://github.com/arkapg211002/arkapg)
-![Image of views-counter](https://github.com/arkapg211002/views-counter/blob/master/graph/482187922/large/year.png)
+![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/482187922/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/1/21 6:23 AM UTC</i></small>
+<small><i>Last updated on 2023/1/21 12:34 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of views-counter](https://github.com/arkapg211002/views-counter/blob/master/svg/482187922/badge.svg)](https://github.com/arkapg211002/views-counter/blob/master/readme/482187922/week.md)
+[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/482187922/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/482187922/week.md)
 ```readme
-[![Image of views-counter](https://github.com/arkapg211002/views-counter/blob/master/svg/482187922/badge.svg)](https://github.com/arkapg211002/views-counter/blob/master/readme/482187922/week.md)
+[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/482187922/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/482187922/week.md)
 ```
 ### Header
-# arkapg [<img alt="Image of views-counter" src="https://github.com/arkapg211002/views-counter/blob/master/graph/482187922/small/year.png" height="20">](https://github.com/arkapg211002/views-counter/blob/master/readme/482187922/year.md)
+# arkapg [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/482187922/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/482187922/year.md)
 ```readme
-# arkapg [<img alt="Image of views-counter" src="https://github.com/arkapg211002/views-counter/blob/master/graph/482187922/small/year.png" height="20">](https://github.com/arkapg211002/views-counter/blob/master/readme/482187922/year.md)
+# arkapg [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/482187922/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/482187922/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

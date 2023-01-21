@@ -1,7 +1,7 @@
-## [🔙 views-counter](https://github.com/arkapg211002/views-counter)
+## [🔙 TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme)
 
 ### :octocat: [FoodSite](https://github.com/arkapg211002/FoodSite)
-![Image of views-counter](https://github.com/arkapg211002/views-counter/blob/master/graph/579309268/large/year.png)
+![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/579309268/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/1/21 6:24 AM UTC</i></small>
+<small><i>Last updated on 2023/1/21 12:35 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of views-counter](https://github.com/arkapg211002/views-counter/blob/master/svg/579309268/badge.svg)](https://github.com/arkapg211002/views-counter/blob/master/readme/579309268/week.md)
+[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/579309268/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/579309268/week.md)
 ```readme
-[![Image of views-counter](https://github.com/arkapg211002/views-counter/blob/master/svg/579309268/badge.svg)](https://github.com/arkapg211002/views-counter/blob/master/readme/579309268/week.md)
+[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/579309268/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/579309268/week.md)
 ```
 ### Header
-# FoodSite [<img alt="Image of views-counter" src="https://github.com/arkapg211002/views-counter/blob/master/graph/579309268/small/year.png" height="20">](https://github.com/arkapg211002/views-counter/blob/master/readme/579309268/year.md)
+# FoodSite [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/579309268/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/579309268/year.md)
 ```readme
-# FoodSite [<img alt="Image of views-counter" src="https://github.com/arkapg211002/views-counter/blob/master/graph/579309268/small/year.png" height="20">](https://github.com/arkapg211002/views-counter/blob/master/readme/579309268/year.md)
+# FoodSite [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/579309268/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/579309268/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

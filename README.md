@@ -21,7 +21,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/512179107/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/512179107/year.md">
 				arkapg211002
 			</a>
 		</td>
@@ -32,12 +32,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			13
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/512179107/small/year.png" height="20"> 282
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/512179107/small/year.png" height="20"> 282
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/482187922/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/482187922/year.md">
 				arkapg
 			</a>
 		</td>
@@ -48,12 +48,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			6
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/482187922/small/year.png" height="20"> 103
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/482187922/small/year.png" height="20"> 103
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/581154681/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/581154681/year.md">
 				arkapg211002.github.io
 			</a>
 		</td>
@@ -64,12 +64,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			10
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/581154681/small/year.png" height="20"> 577
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/581154681/small/year.png" height="20"> 577
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/589886326/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/589886326/year.md">
 				AskAI
 			</a>
 		</td>
@@ -80,12 +80,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			14
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/589886326/small/year.png" height="20"> 240
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/589886326/small/year.png" height="20"> 240
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/579309268/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/579309268/year.md">
 				FoodSite
 			</a>
 		</td>
@@ -96,12 +96,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/579309268/small/year.png" height="20"> 10
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/579309268/small/year.png" height="20"> 10
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/579138899/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/579138899/year.md">
 				6API
 			</a>
 		</td>
@@ -112,12 +112,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/579138899/small/year.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/579138899/small/year.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/572218497/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/572218497/year.md">
 				CRUD
 			</a>
 		</td>
@@ -128,12 +128,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/572218497/small/year.png" height="20"> 8
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/572218497/small/year.png" height="20"> 8
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/580376557/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/580376557/year.md">
 				Microtech-MS-Clone
 			</a>
 		</td>
@@ -144,12 +144,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/580376557/small/year.png" height="20"> 7
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/580376557/small/year.png" height="20"> 7
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/581416856/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/581416856/year.md">
 				Doctors_Clinic
 			</a>
 		</td>
@@ -160,12 +160,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/581416856/small/year.png" height="20"> 5
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/581416856/small/year.png" height="20"> 5
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/585918123/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/585918123/year.md">
 				Circle
 			</a>
 		</td>
@@ -176,12 +176,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/585918123/small/year.png" height="20"> 30
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/585918123/small/year.png" height="20"> 30
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/581879933/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/581879933/year.md">
 				TerminalPortfolio.github.io
 			</a>
 		</td>
@@ -192,12 +192,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/581879933/small/year.png" height="20"> 18
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/581879933/small/year.png" height="20"> 18
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/views-counter/tree/master/readme/581585157/year.md">
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/581585157/year.md">
 				Terminal-portfolio.github.io
 			</a>
 		</td>
@@ -208,19 +208,19 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/views-counter/raw/master/graph/581585157/small/year.png" height="20"> 7
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/581585157/small/year.png" height="20"> 7
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/1/21 6:25 AM UTC</i></small>
+<small><i>Last updated on 2023/1/21 12:36 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
-[![Image of https://github.com/arkapg211002/views-counter](https://github.com/arkapg211002/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/arkapg211002/views-counter)
+[![Image of https://github.com/arkapg211002/TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/profile/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme)
 
 ```readme
-[![Image of https://github.com/arkapg211002/views-counter](https://github.com/arkapg211002/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/arkapg211002/views-counter)
+[![Image of https://github.com/arkapg211002/TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/profile/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
