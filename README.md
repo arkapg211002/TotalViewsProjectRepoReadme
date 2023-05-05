@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:35 AM UTC
+			2023/5/3 1:35 AM UTC
 		</td>
 		<td>
 			26
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:35 AM UTC
+			2023/5/3 1:35 AM UTC
 		</td>
 		<td>
 			16
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:35 AM UTC
+			2023/5/3 1:35 AM UTC
 		</td>
 		<td>
 			60
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:35 AM UTC
+			2023/5/3 1:35 AM UTC
 		</td>
 		<td>
 			82
@@ -90,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:35 AM UTC
+			2023/5/3 12:00 AM UTC
 		</td>
 		<td>
-			4
+			5
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/579309268/small/year.png" height="20"> 12
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/579309268/small/year.png" height="20"> 13
 		</td>
 	</tr>
 	<tr>
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:36 AM UTC
+			2023/5/3 1:36 AM UTC
 		</td>
 		<td>
 			2
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:36 AM UTC
+			2023/5/3 1:36 AM UTC
 		</td>
 		<td>
 			6
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:36 AM UTC
+			2023/5/3 1:36 AM UTC
 		</td>
 		<td>
 			8
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:36 AM UTC
+			2023/5/3 1:36 AM UTC
 		</td>
 		<td>
 			9
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:36 AM UTC
+			2023/5/3 1:36 AM UTC
 		</td>
 		<td>
 			6
@@ -186,13 +186,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:36 AM UTC
+			2023/5/3 12:00 AM UTC
 		</td>
 		<td>
-			18
+			19
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/581879933/small/year.png" height="20"> 80
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/581879933/small/year.png" height="20"> 81
 		</td>
 	</tr>
 	<tr>
@@ -202,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/2 1:36 AM UTC
+			2023/5/3 1:37 AM UTC
 		</td>
 		<td>
 			6
@@ -213,7 +213,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/5/4 6:24 PM UTC</i></small>
+<small><i>Last updated on 2023/5/5 1:25 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
