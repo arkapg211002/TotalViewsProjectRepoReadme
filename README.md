@@ -227,9 +227,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/634424458/small/year.png" height="20"> 1168
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/657931442/year.md">
+				PlayNet
+			</a>
+		</td>
+		<td>
+			2023/6/21 2:51 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/657931442/small/year.png" height="20"> 40
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/6/24 12:40 PM UTC</i></small>
+<small><i>Last updated on 2023/6/24 2:51 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
