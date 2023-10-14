@@ -243,9 +243,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/657931442/small/year.png" height="20"> 201
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/703637492/year.md">
+				Student-Result-Management-System
+			</a>
+		</td>
+		<td>
+			2023/10/11 12:00 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/703637492/small/year.png" height="20"> 120
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/10/14 12:23 AM UTC</i></small>
+<small><i>Last updated on 2023/10/14 2:56 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
