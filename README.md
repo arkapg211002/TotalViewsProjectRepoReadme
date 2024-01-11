@@ -213,22 +213,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/634424458/year.md">
-				SEM-5-CSE
-			</a>
-		</td>
-		<td>
-			2024/1/9 12:00 AM UTC
-		</td>
-		<td>
-			1041
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/634424458/small/year.png" height="20"> 40444
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/657931442/year.md">
 				PlayNet
 			</a>
@@ -261,6 +245,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/571109323/year.md">
+				SEM-4-CSE
+			</a>
+		</td>
+		<td>
+			2024/1/8 4:35 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/571109323/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/634424458/year.md">
+				SEM-5-CSE
+			</a>
+		</td>
+		<td>
+			2024/1/9 12:00 AM UTC
+		</td>
+		<td>
+			1041
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/634424458/small/year.png" height="20"> 40444
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/654215081/year.md">
 				SEM-6-CSE
 			</a>
@@ -277,7 +293,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/11 12:10 PM UTC</i></small>
+<small><i>Last updated on 2024/1/11 4:36 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

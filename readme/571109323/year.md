@@ -1,7 +1,7 @@
 ## [🔙 TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme)
 
-### :octocat: [Doctors_Clinic](https://github.com/arkapg211002/Doctors_Clinic)
-![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/581416856/large/year.png)
+### :octocat: [SEM-4-CSE](https://github.com/arkapg211002/SEM-4-CSE)
+![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/571109323/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2023/5/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +122,10 @@
 			<code>2023/4/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -133,10 +133,10 @@
 			<code>2023/3/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -155,27 +155,27 @@
 			<code>2023/1/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>31</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2024/1/11 4:34 PM UTC</i></small>
+<small><i>Last updated on 2024/1/11 4:35 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/581416856/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/581416856/week.md)
+[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/571109323/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/571109323/week.md)
 ```readme
-[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/581416856/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/581416856/week.md)
+[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/571109323/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/571109323/week.md)
 ```
 ### Header
-# Doctors_Clinic [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/581416856/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/581416856/year.md)
+# SEM-4-CSE [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/571109323/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/571109323/year.md)
 ```readme
-# Doctors_Clinic [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/581416856/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/581416856/year.md)
+# SEM-4-CSE [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/571109323/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/571109323/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
