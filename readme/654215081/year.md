@@ -26,7 +26,7 @@
 			<code>27</code>
 		</td>
 		<td>
-			<code>1941</code>
+			<code>1981</code>
 		</td>
 	</tr>
 	<tr>
@@ -153,7 +153,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/2/29 6:08 PM UTC</i></small>
+<small><i>Last updated on 2024/3/1 12:27 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
