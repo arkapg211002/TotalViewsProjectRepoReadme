@@ -277,6 +277,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/820032321/year.md">
+				GravityGlide
+			</a>
+		</td>
+		<td>
+			2024/6/23 4:30 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/820032321/small/year.png" height="20"> 54
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/820459647/year.md">
+				AIForge
+			</a>
+		</td>
+		<td>
+			2024/6/23 4:31 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/820459647/small/year.png" height="20"> 28
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/571109323/year.md">
 				SEM-4-CSE
 			</a>
@@ -325,7 +357,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/6/26 12:10 PM UTC</i></small>
+<small><i>Last updated on 2024/6/26 4:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

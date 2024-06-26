@@ -1,7 +1,7 @@
 ## [🔙 TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme)
 
-### :octocat: [Microtech-MS-Clone](https://github.com/arkapg211002/Microtech-MS-Clone)
-![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/580376557/large/year.png)
+### :octocat: [GravityGlide](https://github.com/arkapg211002/GravityGlide)
+![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/820032321/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/6/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>54</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +122,10 @@
 			<code>2023/9/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -133,10 +133,10 @@
 			<code>2023/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/6/26 4:29 PM UTC</i></small>
+<small><i>Last updated on 2024/6/26 4:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/580376557/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/580376557/week.md)
+[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/820032321/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/820032321/week.md)
 ```readme
-[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/580376557/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/580376557/week.md)
+[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/820032321/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/820032321/week.md)
 ```
 ### Header
-# Microtech-MS-Clone [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/580376557/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/580376557/year.md)
+# GravityGlide [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/820032321/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/820032321/year.md)
 ```readme
-# Microtech-MS-Clone [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/580376557/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/580376557/year.md)
+# GravityGlide [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/820032321/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/820032321/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
