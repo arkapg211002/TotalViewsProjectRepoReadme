@@ -403,9 +403,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/828855312/small/year.png" height="20"> 1081
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/883535888/year.md">
+				SEM-8-CSE
+			</a>
+		</td>
+		<td>
+			2024/11/2 6:23 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/883535888/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/11/5 6:10 AM UTC</i></small>
+<small><i>Last updated on 2024/11/5 6:23 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
