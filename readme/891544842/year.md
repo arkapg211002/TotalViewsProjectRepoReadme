@@ -1,7 +1,7 @@
 ## [🔙 TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme)
 
-### :octocat: [Microtech-MS-Clone](https://github.com/arkapg211002/Microtech-MS-Clone)
-![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/580376557/large/year.png)
+### :octocat: [Final-Year-Project](https://github.com/arkapg211002/Final-Year-Project)
+![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/891544842/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>18</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2024/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -144,10 +144,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/11/21 3:05 AM UTC</i></small>
+<small><i>Last updated on 2024/11/21 3:07 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/580376557/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/580376557/week.md)
+[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/891544842/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/891544842/week.md)
 ```readme
-[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/580376557/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/580376557/week.md)
+[![Image of TotalViewsProjectRepoReadme](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/svg/891544842/badge.svg)](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/891544842/week.md)
 ```
 ### Header
-# Microtech-MS-Clone [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/580376557/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/580376557/year.md)
+# Final-Year-Project [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/891544842/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/891544842/year.md)
 ```readme
-# Microtech-MS-Clone [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/580376557/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/580376557/year.md)
+# Final-Year-Project [<img alt="Image of TotalViewsProjectRepoReadme" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/graph/891544842/small/year.png" height="20">](https://github.com/arkapg211002/TotalViewsProjectRepoReadme/blob/master/readme/891544842/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
