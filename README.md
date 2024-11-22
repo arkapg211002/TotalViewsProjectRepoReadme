@@ -419,25 +419,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/883535888/small/year.png" height="20"> 2
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/891544842/year.md">
-				Final-Year-Project
-			</a>
-		</td>
-		<td>
-			2024/11/20 12:00 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/891544842/small/year.png" height="20"> 36
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2024/11/22 12:28 AM UTC</i></small>
+<small><i>Last updated on 2024/11/22 6:10 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
