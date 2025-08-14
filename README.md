@@ -37,38 +37,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/482187922/year.md">
-				arkapg
-			</a>
-		</td>
-		<td>
-			2025/8/12 12:00 AM UTC
-		</td>
-		<td>
-			320
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/482187922/small/year.png" height="20"> 868
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/581154681/year.md">
-				arkapg211002.github.io
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:51 AM UTC
-		</td>
-		<td>
-			313
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/581154681/small/year.png" height="20"> 2384
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/658228457/year.md">
 				System-Design-Preparation
 			</a>
@@ -81,22 +49,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/658228457/small/year.png" height="20"> 14724
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/589886326/year.md">
-				AskAI
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:51 AM UTC
-		</td>
-		<td>
-			239
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/589886326/small/year.png" height="20"> 832
 		</td>
 	</tr>
 	<tr>
@@ -133,22 +85,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/572218497/year.md">
-				CRUD
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:51 AM UTC
-		</td>
-		<td>
-			9
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/572218497/small/year.png" height="20"> 52
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/580376557/year.md">
 				Microtech-MS-Clone
 			</a>
@@ -161,22 +97,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/580376557/small/year.png" height="20"> 32
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/585918123/year.md">
-				Circle
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:52 AM UTC
-		</td>
-		<td>
-			29
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/585918123/small/year.png" height="20"> 87
 		</td>
 	</tr>
 	<tr>
@@ -227,233 +147,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/834836863/small/year.png" height="20"> 10223
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/657931442/year.md">
-				PlayNet
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:52 AM UTC
-		</td>
-		<td>
-			106
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/657931442/small/year.png" height="20"> 486
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/703637492/year.md">
-				Student-Result-Management-System
-			</a>
-		</td>
-		<td>
-			2025/8/12 12:00 AM UTC
-		</td>
-		<td>
-			643
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/703637492/small/year.png" height="20"> 1972
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/799637245/year.md">
-				Local-Frame
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:52 AM UTC
-		</td>
-		<td>
-			33
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/799637245/small/year.png" height="20"> 296
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/802044191/year.md">
-				FusionDraw
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:52 AM UTC
-		</td>
-		<td>
-			34
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/802044191/small/year.png" height="20"> 206
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/820032321/year.md">
-				GravityGlide
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:53 AM UTC
-		</td>
-		<td>
-			15
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/820032321/small/year.png" height="20"> 123
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/820459647/year.md">
-				AIForge
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:53 AM UTC
-		</td>
-		<td>
-			56
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/820459647/small/year.png" height="20"> 487
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/821733861/year.md">
-				Spendly
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:53 AM UTC
-		</td>
-		<td>
-			16
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/821733861/small/year.png" height="20"> 354
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/822099614/year.md">
-				Formify
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:53 AM UTC
-		</td>
-		<td>
-			37
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/822099614/small/year.png" height="20"> 311
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/571109323/year.md">
-				SEM-4-CSE
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:53 AM UTC
-		</td>
-		<td>
-			114
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/571109323/small/year.png" height="20"> 815
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/634424458/year.md">
-				SEM-5-CSE
-			</a>
-		</td>
-		<td>
-			2025/8/12 12:00 AM UTC
-		</td>
-		<td>
-			2965
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/634424458/small/year.png" height="20"> 62960
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/654215081/year.md">
-				SEM-6-CSE
-			</a>
-		</td>
-		<td>
-			2025/8/12 12:00 AM UTC
-		</td>
-		<td>
-			3104
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/654215081/small/year.png" height="20"> 50825
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/828855312/year.md">
-				SEM-7-CSE
-			</a>
-		</td>
-		<td>
-			2025/8/12 12:00 AM UTC
-		</td>
-		<td>
-			1980
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/828855312/small/year.png" height="20"> 9137
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/883535888/year.md">
-				SEM-8-CSE
-			</a>
-		</td>
-		<td>
-			2025/8/12 1:54 AM UTC
-		</td>
-		<td>
-			31
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/883535888/small/year.png" height="20"> 225
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/892407664/year.md">
-				MAFSMBMDDPWI-FYP-2025
-			</a>
-		</td>
-		<td>
-			2025/8/12 12:00 AM UTC
-		</td>
-		<td>
-			170
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/892407664/small/year.png" height="20"> 5579
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2025/8/14 1:56 AM UTC</i></small>
+<small><i>Last updated on 2025/8/14 6:37 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
