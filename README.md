@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 12:00 AM UTC
+			2025/11/30 12:00 AM UTC
 		</td>
 		<td>
-			683
+			698
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/512179107/small/year.png" height="20"> 1992
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/512179107/small/year.png" height="20"> 2007
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:46 AM UTC
+			2025/11/30 1:59 AM UTC
 		</td>
 		<td>
 			352
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:46 AM UTC
+			2025/11/30 12:00 AM UTC
 		</td>
 		<td>
-			340
+			341
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/581154681/small/year.png" height="20"> 2416
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/581154681/small/year.png" height="20"> 2417
 		</td>
 	</tr>
 	<tr>
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 12:00 AM UTC
+			2025/11/30 12:00 AM UTC
 		</td>
 		<td>
-			9650
+			9686
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/658228457/small/year.png" height="20"> 28021
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/658228457/small/year.png" height="20"> 28120
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:46 AM UTC
+			2025/11/30 2:00 AM UTC
 		</td>
 		<td>
 			242
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:46 AM UTC
+			2025/11/30 2:00 AM UTC
 		</td>
 		<td>
 			8
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:46 AM UTC
+			2025/11/30 2:00 AM UTC
 		</td>
 		<td>
 			11
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:46 AM UTC
+			2025/11/30 2:00 AM UTC
 		</td>
 		<td>
 			10
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:47 AM UTC
+			2025/11/30 2:00 AM UTC
 		</td>
 		<td>
 			17
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:47 AM UTC
+			2025/11/30 2:00 AM UTC
 		</td>
 		<td>
 			33
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:47 AM UTC
+			2025/11/30 2:00 AM UTC
 		</td>
 		<td>
 			58
@@ -202,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:47 AM UTC
+			2025/11/30 2:01 AM UTC
 		</td>
 		<td>
 			10
@@ -218,13 +218,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:47 AM UTC
+			2025/11/30 12:00 AM UTC
 		</td>
 		<td>
-			1347
+			1348
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/834836863/small/year.png" height="20"> 10382
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/834836863/small/year.png" height="20"> 10383
 		</td>
 	</tr>
 	<tr>
@@ -234,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 12:00 AM UTC
+			2025/11/30 2:01 AM UTC
 		</td>
 		<td>
 			126
@@ -250,13 +250,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:47 AM UTC
+			2025/11/30 12:00 AM UTC
 		</td>
 		<td>
-			729
+			730
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/703637492/small/year.png" height="20"> 3270
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/703637492/small/year.png" height="20"> 3355
 		</td>
 	</tr>
 	<tr>
@@ -266,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:47 AM UTC
+			2025/11/30 2:01 AM UTC
 		</td>
 		<td>
 			34
@@ -282,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:48 AM UTC
+			2025/11/30 2:01 AM UTC
 		</td>
 		<td>
 			40
@@ -298,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:48 AM UTC
+			2025/11/30 2:01 AM UTC
 		</td>
 		<td>
 			18
@@ -314,7 +314,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:48 AM UTC
+			2025/11/30 2:01 AM UTC
 		</td>
 		<td>
 			74
@@ -330,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:48 AM UTC
+			2025/11/30 2:02 AM UTC
 		</td>
 		<td>
 			20
@@ -346,7 +346,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:48 AM UTC
+			2025/11/30 2:02 AM UTC
 		</td>
 		<td>
 			46
@@ -362,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:48 AM UTC
+			2025/11/30 2:02 AM UTC
 		</td>
 		<td>
 			130
@@ -378,13 +378,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 12:00 AM UTC
+			2025/11/30 12:00 AM UTC
 		</td>
 		<td>
-			3554
+			3557
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/634424458/small/year.png" height="20"> 67762
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/634424458/small/year.png" height="20"> 67789
 		</td>
 	</tr>
 	<tr>
@@ -394,13 +394,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 12:00 AM UTC
+			2025/11/30 12:00 AM UTC
 		</td>
 		<td>
-			3345
+			3347
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/654215081/small/year.png" height="20"> 52539
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/654215081/small/year.png" height="20"> 52545
 		</td>
 	</tr>
 	<tr>
@@ -410,13 +410,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 12:00 AM UTC
+			2025/11/30 12:00 AM UTC
 		</td>
 		<td>
-			3407
+			3458
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/828855312/small/year.png" height="20"> 16877
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/828855312/small/year.png" height="20"> 17069
 		</td>
 	</tr>
 	<tr>
@@ -426,13 +426,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 12:00 AM UTC
+			2025/11/30 12:00 AM UTC
 		</td>
 		<td>
-			52
+			54
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/883535888/small/year.png" height="20"> 317
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/883535888/small/year.png" height="20"> 320
 		</td>
 	</tr>
 	<tr>
@@ -442,7 +442,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/11/29 1:49 AM UTC
+			2025/11/30 2:02 AM UTC
 		</td>
 		<td>
 			238
@@ -453,7 +453,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/12/1 6:41 PM UTC</i></small>
+<small><i>Last updated on 2025/12/2 1:54 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
