@@ -53,22 +53,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/581154681/year.md">
-				arkapg211002.github.io
-			</a>
-		</td>
-		<td>
-			2026/3/8 2:29 AM UTC
-		</td>
-		<td>
-			355
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/581154681/small/year.png" height="20"> 2435
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/658228457/year.md">
 				System-Design-Preparation
 			</a>
@@ -81,38 +65,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/658228457/small/year.png" height="20"> 39494
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/589886326/year.md">
-				AskAI
-			</a>
-		</td>
-		<td>
-			2026/3/8 2:29 AM UTC
-		</td>
-		<td>
-			244
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/589886326/small/year.png" height="20"> 838
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/579309268/year.md">
-				FoodSite
-			</a>
-		</td>
-		<td>
-			2026/3/8 2:29 AM UTC
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/579309268/small/year.png" height="20"> 18
 		</td>
 	</tr>
 	<tr>
@@ -453,7 +405,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/3/10 1:11 PM UTC</i></small>
+<small><i>Last updated on 2026/3/10 6:58 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
