@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:29 AM UTC
+			2026/3/9 12:00 AM UTC
 		</td>
 		<td>
-			1071
+			1072
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/512179107/small/year.png" height="20"> 2405
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/512179107/small/year.png" height="20"> 2406
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:29 AM UTC
+			2026/3/9 2:30 AM UTC
 		</td>
 		<td>
 			380
@@ -53,18 +53,66 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/581154681/year.md">
+				arkapg211002.github.io
+			</a>
+		</td>
+		<td>
+			2026/3/9 2:30 AM UTC
+		</td>
+		<td>
+			355
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/581154681/small/year.png" height="20"> 2435
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/658228457/year.md">
 				System-Design-Preparation
 			</a>
 		</td>
 		<td>
-			2026/3/8 12:00 AM UTC
+			2026/3/9 12:00 AM UTC
 		</td>
 		<td>
-			13639
+			13661
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/658228457/small/year.png" height="20"> 39494
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/658228457/small/year.png" height="20"> 39553
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/589886326/year.md">
+				AskAI
+			</a>
+		</td>
+		<td>
+			2026/3/9 2:31 AM UTC
+		</td>
+		<td>
+			244
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/589886326/small/year.png" height="20"> 838
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/tree/master/readme/579309268/year.md">
+				FoodSite
+			</a>
+		</td>
+		<td>
+			2026/3/9 2:31 AM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/579309268/small/year.png" height="20"> 18
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:30 AM UTC
+			2026/3/9 2:31 AM UTC
 		</td>
 		<td>
 			12
@@ -90,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:30 AM UTC
+			2026/3/9 2:31 AM UTC
 		</td>
 		<td>
 			12
@@ -106,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:30 AM UTC
+			2026/3/9 2:31 AM UTC
 		</td>
 		<td>
 			18
@@ -122,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:30 AM UTC
+			2026/3/9 2:31 AM UTC
 		</td>
 		<td>
 			36
@@ -138,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:30 AM UTC
+			2026/3/9 2:31 AM UTC
 		</td>
 		<td>
 			65
@@ -154,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:30 AM UTC
+			2026/3/9 2:32 AM UTC
 		</td>
 		<td>
 			10
@@ -170,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 12:00 AM UTC
+			2026/3/9 2:32 AM UTC
 		</td>
 		<td>
 			1378
@@ -186,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:30 AM UTC
+			2026/3/9 2:32 AM UTC
 		</td>
 		<td>
 			134
@@ -202,13 +250,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 12:00 AM UTC
+			2026/3/9 12:00 AM UTC
 		</td>
 		<td>
-			915
+			916
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/703637492/small/year.png" height="20"> 3850
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/703637492/small/year.png" height="20"> 3851
 		</td>
 	</tr>
 	<tr>
@@ -218,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:31 AM UTC
+			2026/3/9 2:32 AM UTC
 		</td>
 		<td>
 			35
@@ -234,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:31 AM UTC
+			2026/3/9 2:32 AM UTC
 		</td>
 		<td>
 			47
@@ -250,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:31 AM UTC
+			2026/3/9 2:32 AM UTC
 		</td>
 		<td>
 			21
@@ -266,13 +314,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:31 AM UTC
+			2026/3/9 12:00 AM UTC
 		</td>
 		<td>
-			95
+			96
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/820459647/small/year.png" height="20"> 695
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/820459647/small/year.png" height="20"> 696
 		</td>
 	</tr>
 	<tr>
@@ -282,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:31 AM UTC
+			2026/3/9 2:33 AM UTC
 		</td>
 		<td>
 			25
@@ -298,7 +346,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:31 AM UTC
+			2026/3/9 2:33 AM UTC
 		</td>
 		<td>
 			52
@@ -314,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:31 AM UTC
+			2026/3/9 2:33 AM UTC
 		</td>
 		<td>
 			135
@@ -330,7 +378,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:32 AM UTC
+			2026/3/9 2:33 AM UTC
 		</td>
 		<td>
 			3725
@@ -346,13 +394,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 12:00 AM UTC
+			2026/3/9 12:00 AM UTC
 		</td>
 		<td>
-			3736
+			3744
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/654215081/small/year.png" height="20"> 55848
+			<img alt="Response time graph" src="https://github.com/arkapg211002/TotalViewsProjectRepoReadme/raw/master/graph/654215081/small/year.png" height="20"> 55882
 		</td>
 	</tr>
 	<tr>
@@ -362,7 +410,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:32 AM UTC
+			2026/3/9 2:33 AM UTC
 		</td>
 		<td>
 			3690
@@ -378,7 +426,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:32 AM UTC
+			2026/3/9 2:33 AM UTC
 		</td>
 		<td>
 			154
@@ -394,7 +442,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/8 2:32 AM UTC
+			2026/3/9 2:34 AM UTC
 		</td>
 		<td>
 			277
@@ -405,7 +453,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/3/10 6:58 PM UTC</i></small>
+<small><i>Last updated on 2026/3/11 2:25 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
