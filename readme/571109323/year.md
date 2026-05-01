@@ -150,21 +150,10 @@
 			<code>65</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2025/4/1</code>
-		</td>
-		<td>
-			<code>10</code>
-		</td>
-		<td>
-			<code>61</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/4/30 7:29 PM UTC</i></small>
+<small><i>Last updated on 2026/5/1 3:44 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
